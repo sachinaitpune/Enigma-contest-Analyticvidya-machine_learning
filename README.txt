@@ -4,6 +4,8 @@ Data of quora question and answer is given with various coloums.
 
 coloumns are-
 ID
+Sex
+Age
 Tags
 Answers
 Upvotes
